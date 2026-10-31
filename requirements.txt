@@ -1,0 +1,5 @@
+# Ranges (not exact pins) so that new Python versions get ready-made wheels.
+# numpy 2.3.4+ and scipy 1.16.2+ are the first releases with wheels for Python 3.14.
+numpy>=2.3.4,<3
+scipy>=1.16.2,<2
+sympy>=1.13.3,<2

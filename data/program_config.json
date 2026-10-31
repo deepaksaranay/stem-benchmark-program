@@ -1,0 +1,7 @@
+{
+  "program": "Frontier STEM Benchmark (demo program)",
+  "weekly_accepted_target": 30,
+  "first_pass_target": 0.75,
+  "turnaround_p90_sla_hours": 36,
+  "amber_margin": 0.10
+}

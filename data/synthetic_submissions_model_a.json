@@ -1,0 +1,50 @@
+{
+  "synthetic": true,
+  "model": "model-a (synthetic)",
+  "submissions": [
+    {
+      "task_id": "P-001",
+      "answer": "90.35 m"
+    },
+    {
+      "task_id": "P-002",
+      "answer": "2.006 s"
+    },
+    {
+      "task_id": "P-003",
+      "answer": "25.06 min"
+    },
+    {
+      "task_id": "P-004",
+      "answer": "0.4022"
+    },
+    {
+      "task_id": "P-005",
+      "answer": "1702 m"
+    },
+    {
+      "task_id": "P-006",
+      "answer": "340.7 keV"
+    },
+    {
+      "task_id": "M-001",
+      "answer": "pi"
+    },
+    {
+      "task_id": "M-002",
+      "answer": "pi^2/6"
+    },
+    {
+      "task_id": "M-003",
+      "answer": "5"
+    },
+    {
+      "task_id": "M-004",
+      "answer": "14"
+    },
+    {
+      "task_id": "M-006",
+      "answer": "approximately -0.1667"
+    }
+  ]
+}

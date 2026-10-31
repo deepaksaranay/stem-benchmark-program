@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P-001", "domain": "physics", "topic": "mechanics", "difficulty": "easy",
+    "prompt": "A ball is launched from level ground at 30 m/s at 40 degrees above the horizontal. Ignore air resistance and use g = 9.81 m/s^2. How far from the launch point does it land? Give at least 4 significant figures.",
+    "answer": { "unit": "m", "accepted_units": { "m": 1, "km": 1000, "cm": 0.01 }, "rel_tol": 0.001 }
+  },
+  {
+    "id": "P-002", "domain": "physics", "topic": "oscillations", "difficulty": "hard",
+    "prompt": "A simple pendulum of length 1.00 m is released from rest at an angle of 60 degrees. Do NOT use the small-angle approximation. Use g = 9.81 m/s^2. What is its exact period? Give at least 4 significant figures.",
+    "answer": { "unit": "s", "accepted_units": { "s": 1, "ms": 0.001 }, "rel_tol": 0.001 }
+  },
+  {
+    "id": "P-003", "domain": "physics", "topic": "thermodynamics", "difficulty": "medium",
+    "prompt": "A cup of tea at 90 C sits in a room at 20 C. It follows Newton's law of cooling with constant k = 0.05 per minute. After how many minutes does it reach 40 C? Give at least 4 significant figures.",
+    "answer": { "unit": "min", "accepted_units": { "min": 1, "s": 0.016666666666666666, "h": 60 }, "rel_tol": 0.001 }
+  },
+  {
+    "id": "P-004", "domain": "physics", "topic": "quantum mechanics", "difficulty": "medium",
+    "prompt": "A particle is in the n = 2 state of a one-dimensional infinite square well of width L. What is the probability of finding it in the left third of the well (0 < x < L/3)? Give at least 4 significant figures.",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "P-005", "domain": "physics", "topic": "mechanics", "difficulty": "hard",
+    "prompt": "A rocket of initial mass 1000 kg burns fuel at 10 kg/s for 60 s with exhaust speed 2500 m/s relative to the rocket. It moves straight up under constant gravity g = 9.81 m/s^2 and starts from rest. What is its speed at burnout? Ignore drag. Give at least 4 significant figures.",
+    "answer": { "unit": "m/s", "accepted_units": { "m/s": 1, "km/s": 1000 }, "rel_tol": 0.001 }
+  },
+  {
+    "id": "P-006", "domain": "physics", "topic": "relativity", "difficulty": "medium",
+    "prompt": "What is the relativistic kinetic energy of an electron moving at 0.8c? The electron rest energy is 0.51099895 MeV. Give at least 4 significant figures.",
+    "answer": { "unit": "MeV", "accepted_units": { "MeV": 1, "keV": 0.001, "eV": 0.000001, "J": 6241509074000.0 }, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-001", "domain": "mathematics", "topic": "calculus", "difficulty": "easy",
+    "prompt": "Evaluate the definite integral of x*sin(x) from x = 0 to x = pi. Give the exact value or at least 4 significant figures.",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-002", "domain": "mathematics", "topic": "series", "difficulty": "medium",
+    "prompt": "Find the sum of 1/n^2 for n = 1, 2, 3, ... to infinity. Give the exact value or at least 4 significant figures.",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-003", "domain": "mathematics", "topic": "linear algebra", "difficulty": "easy",
+    "prompt": "What is the largest eigenvalue of the matrix [[4, 1], [2, 3]]?",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-004", "domain": "mathematics", "topic": "algebra", "difficulty": "easy",
+    "prompt": "The polynomial x^3 - 6x^2 + 11x - 6 has three roots. What is the sum of the squares of its roots?",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-005", "domain": "mathematics", "topic": "probability", "difficulty": "hard",
+    "prompt": "A fair coin is tossed repeatedly until two heads appear in a row. What is the expected number of tosses?",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  },
+  {
+    "id": "M-006", "domain": "mathematics", "topic": "limits", "difficulty": "medium",
+    "prompt": "Find the limit of (sin(x) - x) / x^3 as x approaches 0. Give the exact value or at least 4 significant figures.",
+    "answer": { "unit": null, "accepted_units": {}, "rel_tol": 0.001 }
+  }
+]

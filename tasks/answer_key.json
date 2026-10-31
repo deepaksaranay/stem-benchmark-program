@@ -1,0 +1,54 @@
+{
+  "generated_by": "python -m benchmark build-key",
+  "note": "Generated from benchmark/reference.py. Do not edit by hand.",
+  "tasks": {
+    "P-001": {
+      "value": 90.3493351387,
+      "unit": "m"
+    },
+    "P-002": {
+      "value": 2.15287466688,
+      "unit": "s"
+    },
+    "P-003": {
+      "value": 25.0552593699,
+      "unit": "min"
+    },
+    "P-004": {
+      "value": 0.402249445261,
+      "unit": null
+    },
+    "P-005": {
+      "value": 1702.12682969,
+      "unit": "m/s"
+    },
+    "P-006": {
+      "value": 0.340665966667,
+      "unit": "MeV"
+    },
+    "M-001": {
+      "value": 3.14159265359,
+      "unit": null
+    },
+    "M-002": {
+      "value": 1.64493406685,
+      "unit": null
+    },
+    "M-003": {
+      "value": 5.0,
+      "unit": null
+    },
+    "M-004": {
+      "value": 14.0,
+      "unit": null
+    },
+    "M-005": {
+      "value": 6.0,
+      "unit": null
+    },
+    "M-006": {
+      "value": -0.166666666667,
+      "unit": null
+    }
+  }
+}
